@@ -1,7 +1,7 @@
 # ASFT: Autonomous Self-supervised Fine-Tuning for Turbulence-Degraded OCR
 
 
-Official implementation of **Autonomous Self-supervised Fine-Tuning (ASFT)** applied to `Qwen2.5-VL-3B-Instruct` for OCR on atmospheric turbulence-blurred book covers. In **qwen3b2-5-autonomous-qlora.ipynb** File you can see the Run file perfectly.
+Official implementation of **Autonomous Self-supervised Fine-Tuning (ASFT)** applied to `Qwen2.5-VL-3B-Instruct` for OCR on atmospheric turbulence-blurred book covers. In **qwen3b2-5-autonomous-qlora.ipynb** File you can see the Run file perfectly. Check it out let us know How we can more improve.
 
 ## Dataset Link in Kaggle
 
