@@ -3,6 +3,9 @@
 
 Official implementation of **Autonomous Self-supervised Fine-Tuning (ASFT)** applied to `Qwen2.5-VL-3B-Instruct` for OCR on atmospheric turbulence-blurred book covers.
 
+## Dataset Link in Kaggle
+
+Kaggle-https://www.kaggle.com/datasets/fatehajannatayrin/turbulence-blur-text-extraction-book-images.
 
 ---
 
