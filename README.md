@@ -1,5 +1,6 @@
 # ASFT: Autonomous Self-supervised Fine-Tuning for Turbulence-Degraded OCR
 
+
 Official implementation of **Autonomous Self-supervised Fine-Tuning (ASFT)** applied to `Qwen2.5-VL-3B-Instruct` for OCR on atmospheric turbulence-blurred book covers.
 
 > **Paper:** *Autonomous QLoRA: Self-supervised Fine-Tuning of Vision-Language Models for Turbulence-Degraded OCR* (under review)
@@ -124,20 +125,3 @@ Key parameters in `ASFTConfig` (top of `train.py`):
 | `max_seq_length` | `2048` | Maximum token length |
 
 ---
-
-## Citation
-
-```bibtex
-@article{asft2025,
-  title   = {Autonomous QLoRA: Self-supervised Fine-Tuning of Vision-Language
-             Models for Turbulence-Degraded OCR},
-  year    = {2025},
-  note    = {Under review}
-}
-```
-
----
-
-## License
-
-MIT
