@@ -1,0 +1,22 @@
+# ASFT — Autonomous Self-supervised Fine-Tuning
+# Core dependencies
+
+# HuggingFace (install transformers from source for Qwen2.5-VL support)
+# git+https://github.com/huggingface/transformers
+accelerate>=0.26.0
+peft>=0.9.0
+bitsandbytes>=0.43.0
+datasets>=2.16.0
+
+# Qwen VL utilities
+qwen-vl-utils
+
+# Image processing
+Pillow>=9.0.0
+
+# Numerical
+numpy>=1.24.0
+torch>=2.1.0          # CUDA build recommended; see https://pytorch.org/get-started
+
+# Progress
+tqdm>=4.65.0
