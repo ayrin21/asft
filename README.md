@@ -3,7 +3,6 @@
 
 Official implementation of **Autonomous Self-supervised Fine-Tuning (ASFT)** applied to `Qwen2.5-VL-3B-Instruct` for OCR on atmospheric turbulence-blurred book covers.
 
-> **Paper:** *Autonomous QLoRA: Self-supervised Fine-Tuning of Vision-Language Models for Turbulence-Degraded OCR* (under review)
 
 ---
 
