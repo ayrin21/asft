@@ -6,6 +6,9 @@ Official implementation of **Autonomous Self-supervised Fine-Tuning (ASFT)** app
 ## Dataset Link in Kaggle
 
 Kaggle-https://www.kaggle.com/datasets/fatehajannatayrin/turbulence-blur-text-extraction-book-images.
+
+## Demo  Link in Huggingface
+
 Demo link-  https://huggingface.co/spaces/Rafi123/qwen3b-autonomous-demo.
 
 ---
